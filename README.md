@@ -51,6 +51,9 @@ Use for instance <https://github.com/viusxd/Permanente-2b-Aaron-Flor>:
 
 ![unknown](https://user-images.githubusercontent.com/102131155/173859409-fa11068e-7e0d-4d65-afb6-203bba0cedd6.jpg)
 
+## Gráfico y comparación
+
+![WhatsApp Image 2022-06-15 at 12 54 48 PM](https://user-images.githubusercontent.com/102131155/173893302-a689bc8e-e08f-484f-a2dd-1104712f7f6e.jpeg)
 
 ## Code
 
